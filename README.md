@@ -63,7 +63,7 @@
 2. 安装依赖：
    ```bash
    pip install -r requirements.txt
-3.运行主代码：
+3. 运行主代码：
    ```bash
    python main.py
 ## 📈 结果分析
